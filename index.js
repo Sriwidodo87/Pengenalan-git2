@@ -1,0 +1,1 @@
+console.log("Halo ini git ke-2 ku lo")
